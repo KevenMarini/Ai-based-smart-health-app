@@ -1,0 +1,263 @@
+{
+    "patients": {
+        "basic_info": {
+            "email": "",
+            "name": "",
+            "age": "21",
+            "gender": "Male",
+            "dob": "DD/MM/YYYY",
+            "phone": "",
+            "address": "",
+            "blood_group": "Unknown"
+        },
+        "general_health": {
+            "existing_conditions": "None",
+            "medications": "None",
+            "allergies": "None",
+            "recent_hospitalization": "None"
+        },
+        "problem_overview": {
+            "problem": "",
+            "started": "",
+            "duration": "",
+            "progression": "Improving",
+            "severity": "Mild",
+            "experienced_before": "No",
+            "treatment": ""
+        },
+        "selected_disease": "Malaria",
+        "specific_answers": {
+            "Since when do you have fever?": "",
+            "How often does fever occur (daily/intermittent)?": "",
+            "How long do chills last?": "",
+            "How long after chills do you sweat?": "",
+            "Have symptoms been increasing in intensity?": "",
+            "Have you taken any fever medication?": ""
+        },
+        "hello123@gmail.com": {
+            "email": "hello123@gmail.com",
+            "password": "123",
+            "name": "hello123",
+            "age": "24",
+            "gender": "Male",
+            "dob": "27/11/2007",
+            "phone": "1234567890",
+            "address": "null",
+            "blood_group": "O+",
+            "has_existing": "Yes",
+            "med_history": {
+                "medications": "None",
+                "allergies": "to dust",
+                "hospitalization": "no"
+            },
+            "selected_disease": "Asthma",
+            "disease_answers": {
+                "How long have you been experiencing shortness of breath?": "around a year",
+                "How often do the wheezing episodes occur per week?": "atleast 10 times a week",
+                "How severe is the chest tightness during activity?": "too much",
+                "Do the symptoms worsen specifically at night or during exercise?": "yes",
+                "How long have you been using an inhaler for relief?": "1 year"
+            },
+            "records": [
+                {
+                    "date": "01 Apr, 14:03",
+                    "type": "AI Consultation",
+                    "content": "Prediction: Paralysis (brain hemorrhage)\nConfidence: 28.33%\nRisk: MILD\n\nRecommendation: \u26a0\ufe0f  Visit a doctor immediately."
+                },
+                {
+                    "date": "01 Apr, 14:05",
+                    "type": "AI Consultation",
+                    "content": "Prediction: AIDS\nConfidence: 19.67%\nRisk: MODERATE\n\nRecommendation: \ud83d\udc8a  Take prescribed medication and monitor closely."
+                },
+                {
+                    "date": "01 Apr, 14:07",
+                    "type": "OCR Report",
+                    "content": "Patient Name: Rahul Kumar\nAge: 21\n\nGender: Male\n\nDate: @1-@4-2026\n\nSymptoms:\n\n- Fever (High)\n- Headache\n\n- Mild Cough\n\nVitals:\n\nHeart Rate: 95 bpm\n\nBlood Pressure: 130/85 mmHg\nTemperature: 101\u00b0F",
+                    "image_path": "C:/Users/keven/OneDrive/Desktop/java hck/report.png"
+                }
+            ]
+        },
+        "123ew": {
+            "email": "123ew",
+            "password": "12324",
+            "name": "",
+            "age": "",
+            "gender": "",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "Unknown",
+            "has_existing": "No"
+        },
+        "1": {
+            "email": "1",
+            "password": "2",
+            "name": "",
+            "age": "",
+            "gender": "",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "A+",
+            "has_existing": "No"
+        },
+        "23134t54123453": {
+            "email": "23134t54123453",
+            "password": "21343",
+            "name": "",
+            "age": "",
+            "gender": "",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "AB-",
+            "has_existing": "No"
+        },
+        "12345": {
+            "email": "12345",
+            "password": "12345",
+            "name": "",
+            "age": "",
+            "gender": "Male",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "",
+            "has_existing": "No",
+            "records": [
+                {
+                    "date": "01 Apr, 12:46",
+                    "type": "OCR Report",
+                    "content": "Error analyzing report: tesseract is not installed or it's not in your PATH. See README file for more information."
+                },
+                {
+                    "date": "01 Apr, 12:48",
+                    "type": "OCR Report",
+                    "content": "Error analyzing report: tesseract is not installed or it's not in your PATH. See README file for more information."
+                }
+            ]
+        },
+        "1234@gmail.com": {
+            "email": "1234@gmail.com",
+            "password": "1234",
+            "name": "",
+            "age": "",
+            "gender": "",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "",
+            "has_existing": "No",
+            "records": [
+                {
+                    "date": "01 Apr, 12:54",
+                    "type": "OCR Report",
+                    "content": "Error analyzing report: tesseract is not installed or it's not in your PATH. See README file for more information."
+                },
+                {
+                    "date": "01 Apr, 12:54",
+                    "type": "OCR Report",
+                    "content": "Error analyzing report: tesseract is not installed or it's not in your PATH. See README file for more information."
+                },
+                {
+                    "date": "01 Apr, 12:56",
+                    "type": "OCR Report",
+                    "content": "Patient Name: Rahul Kumar\nAge: 21\n\nGender: Male\n\nDate: @1-@4-2026\n\nSymptoms:\n\n- Fever (High)\n- Headache\n\n- Mild Cough\n\nVitals:\n\nHeart Rate: 95 bpm\n\nBlood Pressure: 130/85 mmHg\nTemperature: 101\u00b0F"
+                },
+                {
+                    "date": "01 Apr, 13:17",
+                    "type": "AI Consultation",
+                    "content": "Prediction: AIDS\nConfidence: 19.67%\nRisk: MODERATE\n\nRecommendation: \ud83d\udc8a  Take prescribed medication and monitor closely."
+                },
+                {
+                    "date": "01 Apr, 13:44",
+                    "type": "AI Consultation",
+                    "content": "Prediction: Paralysis (brain hemorrhage)\nConfidence: 28.33%\nRisk: MILD\n\nRecommendation: \u2705  Home care and rest should be sufficient."
+                },
+                {
+                    "date": "01 Apr, 13:45",
+                    "type": "OCR Report",
+                    "content": "Patient Name: Rahul Kumar\nAge: 21\n\nGender: Male\n\nDate: @1-@4-2026\n\nSymptoms:\n\n- Fever (High)\n- Headache\n\n- Mild Cough\n\nVitals:\n\nHeart Rate: 95 bpm\n\nBlood Pressure: 130/85 mmHg\nTemperature: 101\u00b0F",
+                    "image_path": "C:/Users/keven/OneDrive/Desktop/java hck/report.png"
+                }
+            ]
+        },
+        "hello1234@gmail.com": {
+            "email": "hello1234@gmail.com",
+            "password": "1234",
+            "name": "Hello",
+            "age": "23",
+            "gender": "Male",
+            "dob": "27/11/2007",
+            "phone": "0987654321",
+            "address": "no ",
+            "blood_group": "O+",
+            "has_existing": "Yes",
+            "med_history": {
+                "medications": "None",
+                "allergies": "Specify...",
+                "hospitalization": "Why/When..."
+            },
+            "selected_disease": "COVID-19",
+            "disease_answers": {
+                "When did the fever and dry cough symptoms begin?": "2 weeks ago",
+                "How long have you had a loss of taste or smell?": "around a week",
+                "How often are you experiencing difficulty breathing?": "too oftn",
+                "Have you been in contact with an infected person recently?": "yes",
+                "Did you take a test, and if so, how many days ago?": "yes around 10 days"
+            },
+            "records": [
+                {
+                    "date": "01 Apr, 13:54",
+                    "type": "OCR Report",
+                    "content": "Patient Name: Rahul Kumar\nAge: 21\n\nGender: Male\n\nDate: @1-@4-2026\n\nSymptoms:\n\n- Fever (High)\n- Headache\n\n- Mild Cough\n\nVitals:\n\nHeart Rate: 95 bpm\n\nBlood Pressure: 130/85 mmHg\nTemperature: 101\u00b0F",
+                    "image_path": "C:/Users/keven/OneDrive/Desktop/java hck/report.png"
+                },
+                {
+                    "date": "01 Apr, 14:00",
+                    "type": "OCR Report",
+                    "content": "Patient Name: Rahul Kumar\nAge: 21\n\nGender: Male\n\nDate: @1-@4-2026\n\nSymptoms:\n\n- Fever (High)\n- Headache\n\n- Mild Cough\n\nVitals:\n\nHeart Rate: 95 bpm\n\nBlood Pressure: 130/85 mmHg\nTemperature: 101\u00b0F",
+                    "image_path": "C:/Users/keven/OneDrive/Desktop/java hck/report.png"
+                }
+            ]
+        },
+        "hello123456": {
+            "email": "hello123456",
+            "password": "12345",
+            "name": "",
+            "age": "",
+            "gender": "",
+            "dob": "",
+            "phone": "",
+            "address": "",
+            "blood_group": "Unknown",
+            "has_existing": "Yes",
+            "med_history": {
+                "medications": "None",
+                "allergies": "None",
+                "hospitalization": "None"
+            },
+            "selected_disease": "Cholera",
+            "disease_answers": {
+                "How many days have you had frequent watery diarrhea?": "",
+                "How many times are you passing stool per day?": "",
+                "Since when did the vomiting start?": "",
+                "How long have you felt dehydrated (dry mouth/low urine)?": "",
+                "Are symptoms like muscle cramps getting worse or better?": ""
+            }
+        }
+    },
+    "doctors": {
+        "123ABC": {
+            "pass": "1234",
+            "requests": [],
+            "linked_patients": [
+                "12345",
+                "1234@gmail.com",
+                "hello1234@gmail.com",
+                "hello123@gmail.com"
+            ],
+            "id": "123ABC"
+        }
+    }
+}
